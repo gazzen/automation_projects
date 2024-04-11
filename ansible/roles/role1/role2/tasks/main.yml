@@ -1,0 +1,8 @@
+# Tasks for role1
+- name: Task 1
+  debug:
+    msg: "This is Task 1 in Role 1"
+
+- name: Task 2
+  debug:
+    msg: "This is Task 2 in Role 1"

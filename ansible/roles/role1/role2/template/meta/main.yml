@@ -1,0 +1,3 @@
+# Metadata for role1
+dependencies:
+  - role: role2
